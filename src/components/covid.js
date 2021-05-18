@@ -34,7 +34,7 @@ const Covid = () =>{
     <div className="text-center mt-5">
         <h1> 😓 Covid-19 Updated Data 2021 Based On Daily Recorded 🇮🇳 </h1>
     </div>
-    <div className="row text">
+    <div className="row ">
         <div className="col-md-4">
             <div className="box">
                 <div className="our-services settings">
@@ -67,7 +67,7 @@ const Covid = () =>{
             </div>
         </div>
     </div>
-    <div className="row text">
+    <div className="row">
         <div className="col-md-4">
             <div className="box">
                 <div className="our-services backups">
